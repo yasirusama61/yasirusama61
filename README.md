@@ -1,5 +1,5 @@
 <!-- Profile Header Image -->
-![Header Image](https://media.istockphoto.com/id/2169279105/photo/artificial-intelligence-machine-at-industrial-manufacture-of-lithium-battery.jpg?s=2048x2048&w=is&k=20&c=sDbpKrzOZ2VMLawx0lB16llf_aaeDQJmPawGe6731q8=) 
+![Header Image](image/pic.png) 
 
 ### 👋 Hi there, I'm Usama Yasir Khan!
 I'm an **AI Engineer at XING Mobility** with a passion for advancing technology in battery management systems, machine learning, and AI-driven solutions for real-world challenges. I specialize in temperature prediction, state estimation, and digital twin development for energy storage systems and electric vehicles.
