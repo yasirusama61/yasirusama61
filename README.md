@@ -77,7 +77,7 @@ Feel free to explore my other repositories for more insights into my work and co
 [![Email Me](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 [Email](mailto:your.email@example.com)
+- 📧 [Email](mailto:yasirusama61@gmail.com)
 
 ---
 
