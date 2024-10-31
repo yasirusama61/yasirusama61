@@ -76,7 +76,7 @@ Feel free to explore my other repositories for more insights into my work and co
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Email Me](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/usama-yasir-khan-856803173/)
 - 📧 [Email](mailto:yasirusama61@gmail.com)
 
 ---
