@@ -26,20 +26,42 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 
 ### 🌟 Featured Projects
 
-#### 1. **Digital Twin for Battery Monitoring**
-   - A real-time visualization tool for monitoring battery performance with predictive insights for optimizing battery life.
-   - **Technologies**: Python, Plotly Dash, Matplotlib
-   - **[GitHub Repository](https://github.com/yasirusama61/Digital-Twin-Battery-Monitoring)**
+#### 1. **Advanced SOC Estimation using Transfer Learning**
+   - Implemented a State of Charge (SOC) estimator using transfer learning, pre-training on LG 18650HG2 Li-ion battery data and fine-tuning it for a specific electric vehicle application or a new battery chemistry.
+   - **Technologies**: Python, TensorFlow
+   - **[GitHub Repository](https://github.com/yasirusama61/Advanced-SOC-Estimation-using-Transfer-Learning)**
 
-#### 2. **Temperature Prediction Model**
-   - LSTM-based model for real-time temperature forecasting in electric vehicle batteries.
-   - **Technologies**: TensorFlow, Scikit-Learn, Plotly
-   - **[GitHub Repository](https://github.com/yasirusama61/Temperature-Prediction)**
+#### 2. **Battery Temperature Prediction**
+   - Developed a model to predict battery temperature using unique features from the LG 18650HG2 dataset, leveraging transfer learning to enhance predictive accuracy.
+   - **Technologies**: Python, TensorFlow, Scikit-Learn
+   - **[GitHub Repository](https://github.com/yasirusama61/Battery-Temperature-Prediction)**
 
-#### 3. **Early Risk Detection System**
-   - A machine learning model for predictive maintenance in battery manufacturing, identifying potential quality issues before they occur.
-   - **Technologies**: Scikit-Learn, XGBoost, Dash
-   - **[GitHub Repository](https://github.com/yasirusama61/Early-Risk-Detection)**
+#### 3. **Battery Aging Classification**
+   - Created a classification model to assess and predict battery aging based on various operational parameters.
+   - **Technologies**: Python, Scikit-Learn
+   - **[GitHub Repository](https://github.com/yasirusama61/battery-aging-classification)**
+
+#### 4. **AI BMS Optimization**
+   - Optimized AI-driven Battery Management Systems (BMS) for electric vehicles, focusing on performance improvements through real-time data analysis.
+   - **Technologies**: Python, PyBAMM
+   - **[GitHub Repository](https://github.com/yasirusama61/AI_BMS_Optimization)**
+
+#### 5. **Quality Prediction App**
+   - Developed an application to predict and monitor quality metrics in manufacturing, using machine learning for proactive quality assurance.
+   - **Technologies**: Python, Dash, XGBoost
+   - **[GitHub Repository](https://github.com/yasirusama61/Quality_APP)**
+
+#### 6. **Early Risk Detection System**
+   - Created a predictive maintenance system to detect risks early in the battery manufacturing process, allowing for timely interventions.
+   - **Technologies**: Python, Scikit-Learn
+   - **[GitHub Repository](https://github.com/yasirusama61/early-risk-detection)**
+
+#### 7. **Battery SOC and Temperature Estimation**
+   - Developed models to estimate battery SOC and temperature in immersion-cooled battery packs, incorporating time-series analysis for accurate predictions.
+   - **Technologies**: Python, TensorFlow
+   - **[GitHub Repository](https://github.com/yasirusama61/Battery_SOC_Temp_Estimation)**
+
+---
 
 Feel free to explore my other repositories for more insights into my work and contributions.
 
