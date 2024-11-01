@@ -11,6 +11,7 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 - 🚗 **Industry**: Electric vehicles, Battery Management Systems (BMS), Renewable Energy
 - 🌱 **Interests**: Battery state estimation, predictive maintenance, digital twins, sustainable tech
 - 💬 **Ask me about**: Machine Learning, Battery Systems, Data Analysis, Predictive Modeling
+- 🛠️ **Agile Development**: Experienced in Agile methodologies, using **Tuleap** for Sprint planning, tracking tasks, and facilitating daily stand-up meetings for smooth and efficient development.
 
 ---
 
@@ -21,6 +22,7 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 - **Data Visualization**: Plotly, Matplotlib, Dash
 - **Deployment**: Docker, GitHub Codespaces, Edge Deployment (eIQ toolkit)
 - **Data Processing**: Pandas, NumPy
+- **Agile Tools**: Tuleap for sprint planning, task tracking, and collaboration in a fast-paced environment
 
 ---
 
@@ -85,6 +87,7 @@ Feel free to explore my other repositories for more insights into my work and co
 - **Dashboard Creation**: Developing a visualization tool for real-time temperature monitoring in batteries.
 - **Explainable AI (XAI)**: Adding SHAP-based interpretability to machine learning models for enhanced transparency.
 - **Edge Deployment**: Exploring deployment options for BMS applications on resource-constrained devices.
+- **Agile Collaboration**: Using tools like Tuleap for Sprint planning and task tracking to ensure efficient project progression.
 
 ---
 
@@ -100,5 +103,4 @@ I'm excited to continue expanding my expertise in:
 1. **Dataset**: *LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script*, by Philip Kollmeyer, Carlos Vidal, Mina Naguib, and Michael Skells at McMaster University. DOI: [10.17632/cp3473x7xv.3](https://doi.org/10.17632/cp3473x7xv.3)
 2. **Acknowledgments**: Special thanks to the contributors and researchers who have inspired my work in battery technology.
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to discuss AI, battery management, or potential collaborations. Let’s build the future of sustainable energy together!
-
+Thank you for visiting my profile! Feel free to reach out if you'd like to discuss AI, battery management, Agile practices, or potential collaborations. Let’s build the future of sustainable energy together!
