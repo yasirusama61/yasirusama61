@@ -39,11 +39,12 @@ h1 {
 
 section {
     padding: 2rem;
-    margin: 2rem auto;
+    margin: 0 auto 2rem; /* Center the section horizontally */
     background: #fff;
     border-radius: 10px;
-    max-width: 800px;
+    max-width: 100%; /* Make sure the section spans the full width */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%; /* Adjust this value to add padding/margin to the sides */
 }
 
 section h2 {
@@ -59,39 +60,17 @@ section h2:before {
     margin-right: 0.5rem;
 }
 
-.workflow {
+.project-plots, .workflow {
     padding: 2rem;
-    margin: 2rem auto;
-    background: #fff;
-    border-radius: 10px;
-    max-width: 900px; /* Ensures the workflow section is wider if needed */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-.workflow-image {
-    width: 100%;
-    max-width: 850px; /* Adjust to fit within the page */
-    height: auto;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 1rem;
-}
-
-.project-plots {
-    padding: 2rem;
-    margin: 2rem auto;
+    margin: 0 auto 2rem;
     background: #ffffff;
     border-radius: 10px;
-    max-width: 900px;
+    max-width: 100%; /* Ensures the section spans the full width */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%; /* Adjust this to create side margins */
 }
 
-.plot {
-    margin-bottom: 2rem;
-}
-
-.plot img {
+.plot img, .workflow-image {
     width: 100%;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -102,7 +81,7 @@ section h2:before {
     color: #6a11cb;
 }
 
-.plot p {
+.plot p, .workflow p {
     margin: 0.5rem 0 1rem 0;
     font-size: 1rem;
     line-height: 1.5;
