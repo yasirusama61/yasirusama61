@@ -44,6 +44,21 @@
         </div>
     </section>
 
+    <section class="workflow">
+        <h2>🔍 AI Battery Management System Workflow</h2>
+        <img src="images/ai_bms_workflow.png" alt="AI Battery Management System Workflow" class="workflow-image">
+        <p>This diagram illustrates the complete workflow of the AI Battery Management System (AI BMS), showcasing the stages from data collection to model training and deployment, including OTA updates for continuous learning.</p>
+        <ul>
+            <li><strong>Data Collection:</strong> Collected from battery management sensors, including voltage, current, and temperature data.</li>
+            <li><strong>Data Pre-processing:</strong> Cleaning, resampling, and normalizing data using automated scripts.</li>
+            <li><strong>Training ML Models:</strong> Training LSTM and FNN models for SOC and temperature estimation with historical data.</li>
+            <li><strong>Validation:</strong> Model fine-tuning using validation data to optimize performance.</li>
+            <li><strong>Deployment:</strong> Deployment to edge platforms for real-time operations and cloud systems for remote monitoring.</li>
+            <li><strong>OTA Updates:</strong> Continuous learning through over-the-air updates for adaptive improvements.</li>
+            <li><strong>Visualization & Analysis:</strong> Visual analysis showing accurate SOC and temperature predictions across various conditions.</li>
+        </ul>
+    </section>
+
     <section class="project-plots">
         <h2>📈 Visualizations from My Work</h2>
 
@@ -62,25 +77,25 @@
 
         <div class="plot">
             <h3>3. Model Loss Curve</h3>
-            <img src="images/loss_curve_image.png" alt="Model Loss Curve" width="100%">
+            <img src="images/loss_curve_image.png" alt="Model Loss Curve" width="100%" height="300">
             <p>This plot represents the training loss over time, demonstrating how the model's performance improves during training iterations.</p>
         </div>
 
         <div class="plot">
             <h3>4. Transfer Learning Loss Curve</h3>
-            <img src="images/loss_curve_image_transfer_learning.png" alt="Loss Curve with Transfer Learning" width="100%">
+            <img src="images/loss_curve_image_transfer_learning.png" alt="Loss Curve with Transfer Learning" width="100%" height="300">
             <p>Visualizing the reduction in loss when applying transfer learning techniques, which significantly improved training speed and accuracy.</p>
         </div>
 
         <div class="plot">
             <h3>5. SOC Predictions at +10 Degrees</h3>
-            <img src="images/soc_predictions_image_+10degree.png" alt="SOC Predictions at +10 Degrees" width="100%">
+            <img src="images/soc_predictions_image_+10degree.png" alt="SOC Predictions at +10 Degrees" width="100%" height="300">
             <p>A predictive analysis showing the SOC performance at an ambient temperature of +10 degrees Celsius.</p>
         </div>
 
         <div class="plot">
             <h3>6. SOC Predictions at 25 Degrees</h3>
-            <img src="images/soc_predictions_image_25degree.png" alt="SOC Predictions at 25 Degrees" width="100%">
+            <img src="images/soc_predictions_image_25degree.png" alt="SOC Predictions at 25 Degrees" width="100%" height="300">
             <p>This plot displays SOC predictions at 25 degrees Celsius, showcasing how temperature variations can affect battery performance.</p>
         </div>
     </section>
