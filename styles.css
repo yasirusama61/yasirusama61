@@ -59,9 +59,44 @@ section h2:before {
     margin-right: 0.5rem;
 }
 
-ul {
-    margin: 0;
-    padding-left: 1.5rem;
+.project-plots {
+    padding: 2rem;
+    margin: 2rem auto;
+    background: #ffffff;
+    border-radius: 10px;
+    max-width: 900px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.plot {
+    margin-bottom: 2rem;
+}
+
+.plot img {
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.plot h3 {
+    margin-top: 1rem;
+    color: #6a11cb;
+}
+
+.plot p {
+    margin: 0.5rem 0 1rem 0;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.plot a {
+    color: #2575fc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.plot a:hover {
+    text-decoration: underline;
 }
 
 .skills-list li {
@@ -83,6 +118,7 @@ footer.footer {
     background: #333;
     color: #fff;
     margin-top: 2rem;
+    border-radius: 0 0 10px 10px;
 }
 
 footer.footer a {
