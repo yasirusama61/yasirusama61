@@ -59,6 +59,25 @@ section h2:before {
     margin-right: 0.5rem;
 }
 
+.workflow {
+    padding: 2rem;
+    margin: 2rem auto;
+    background: #fff;
+    border-radius: 10px;
+    max-width: 900px; /* Ensures the workflow section is wider if needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.workflow-image {
+    width: 100%;
+    max-width: 850px; /* Adjust to fit within the page */
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
 .project-plots {
     padding: 2rem;
     margin: 2rem auto;
