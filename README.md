@@ -142,6 +142,9 @@ Feel free to explore my other repositories for more insights into my work and co
 ### GitHub Activity Graph
 [![Usama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirusama61&theme=dracula)](https://github.com/yasirusama61/github-readme-activity-graph)
 
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasirusama61&theme=orange-punch&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-yasir-khan-856803173/)
 [![Email Me](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirusama61@gmail.com)
