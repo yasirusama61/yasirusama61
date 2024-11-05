@@ -1,42 +1,111 @@
-<section class="project-plots">
-    <h2>📈 Visualizations from My Work</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usama Yasir Khan's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <img src="images/1727109322708.png" alt="Profile Header Image" class="profile-img"> <!-- Updated alt text -->
+        <h1>Hi there, I'm <span class="highlight">Usama Yasir Khan</span>!</h1>
+        <p class="tagline">AI Engineer at XING Mobility, focusing on machine learning models for battery management and real-world AI solutions.</p>
+    </header>
 
-    <div class="plot">
-        <h3>1. Battery SOC and Temperature Analysis</h3>
-        <img src="images/image.png" alt="Battery SOC and Temperature Analysis" class="plot-image">
-        <p>This image provides an overview of the battery's state of charge (SOC) and its temperature behavior under different conditions.</p>
-        <a href="https://github.com/yourusername/repository-name" target="_blank">View Project on GitHub</a>
-    </div>
+    <section class="about">
+        <h2>💼 About Me</h2>
+        <p>Currently an AI Engineer at XING Mobility, I work in electric vehicles and renewable energy sectors, contributing cutting-edge technology to sustainable solutions.</p>
+        <ul>
+            <li><strong>Industry:</strong> Electric vehicles, BMS, Renewable Energy</li>
+            <li><strong>Interests:</strong> Battery state estimation, predictive maintenance, digital twins</li>
+        </ul>
+    </section>
 
-    <div class="plot">
-        <h3>2. LGM50LT Battery Analysis</h3>
-        <img src="images/LGM50LT_image.png" alt="LGM50LT Battery Analysis" class="plot-image">
-        <p>An in-depth analysis of the LGM50LT battery type, showcasing specifications and performance attributes used in various models.</p>
-    </div>
+    <section class="skills">
+        <h2>🚀 Skills & Technologies</h2>
+        <ul class="skills-list">
+            <li>Python, MATLAB, TensorFlow, PyTorch</li>
+            <li>Battery Modeling: PyBAMM</li>
+            <li>Visualization: Plotly, Dash, Matplotlib</li>
+        </ul>
+    </section>
 
-    <!-- Add a new div for side-by-side battery cell plots -->
-    <div class="plot-row">
-        <div class="plot">
-            <h3>3. SOC Predictions at +10 Degrees</h3>
-            <img src="images/soc_predictions_image_+10degree.png" alt="SOC Predictions at +10 Degrees" class="plot-image">
-            <p>A predictive analysis showing the SOC performance at an ambient temperature of +10 degrees Celsius.</p>
+    <section class="projects">
+        <h2>🌟 Featured Projects</h2>
+        <div class="project">
+            <h3>1. Advanced SOC Estimation using Transfer Learning</h3>
+            <p>Developed a State of Charge (SOC) estimator with robust training data and model improvements to enhance predictive accuracy. <a href="https://github.com/yasirusama61/Advanced-SOC-Estimation-using-Transfer-Learning" target="_blank">View Project</a></p>
         </div>
-        <div class="plot">
-            <h3>4. SOC Predictions at 25 Degrees</h3>
-            <img src="images/soc_predictions_image_25degree.png" alt="SOC Predictions at 25 Degrees" class="plot-image">
-            <p>This plot displays SOC predictions at 25 degrees Celsius, showcasing how temperature variations can affect battery performance.</p>
+        <div class="project">
+            <h3>2. Battery Temperature Prediction</h3>
+            <p>Built predictive models using unique features for advanced thermal management in battery systems. <a href="https://github.com/yasirusama61/Battery-Temperature-Prediction" target="_blank">View Project</a></p>
         </div>
-    </div>
+    </section>
 
-    <div class="plot">
-        <h3>5. Model Loss Curve</h3>
-        <img src="images/loss_curve_image.png" alt="Model Loss Curve" class="plot-image">
-        <p>This plot represents the training loss over time, demonstrating how the model's performance improves during training iterations.</p>
-    </div>
+    <section class="workflow">
+        <h2>🔍 AI Battery Management System Workflow</h2>
+        <img src="images/ai_bms_workflow.png" alt="AI Battery Management System Workflow" class="workflow-image">
+        <p>This diagram illustrates the complete workflow of the AI Battery Management System (AI BMS), showcasing the stages from data collection to model training and deployment, including OTA updates for continuous learning.</p>
+        <ul>
+            <li><strong>Data Collection:</strong> Collected from battery management sensors, including voltage, current, and temperature data.</li>
+            <li><strong>Data Pre-processing:</strong> Cleaning, resampling, and normalizing data using automated scripts.</li>
+            <li><strong>Training ML Models:</strong> Training LSTM and FNN models for SOC and temperature estimation with historical data.</li>
+            <li><strong>Validation:</strong> Model fine-tuning using validation data to optimize performance.</li>
+            <li><strong>Deployment:</strong> Deployment to edge platforms for real-time operations and cloud systems for remote monitoring.</li>
+            <li><strong>OTA Updates:</strong> Continuous learning through over-the-air updates for adaptive improvements.</li>
+            <li><strong>Visualization & Analysis:</strong> Visual analysis showing accurate SOC and temperature predictions across various conditions.</li>
+        </ul>
+    </section>
 
-    <div class="plot">
-        <h3>6. Transfer Learning Loss Curve</h3>
-        <img src="images/loss_curve_image_transfer_learning.png" alt="Loss Curve with Transfer Learning" class="plot-image">
-        <p>Visualizing the reduction in loss when applying transfer learning techniques, which significantly improved training speed and accuracy.</p>
-    </div>
-</section>
+    <section class="project-plots">
+        <h2>📈 Visualizations from My Work</h2>
+    
+        <div class="plot">
+            <h3>1. Battery SOC and Temperature Analysis</h3>
+            <img src="images/image.png" alt="Battery SOC and Temperature Analysis" class="plot-image">
+            <p>This image provides an overview of the battery's state of charge (SOC) and its temperature behavior under different conditions.</p>
+            <a href="https://github.com/yasirusama61/Battery_SOC_Temp_Estimation" target="_blank">View Project on GitHub</a>
+        </div>
+    
+        <div class="plot">
+            <h3>2. LGM50LT Battery Analysis</h3>
+            <img src="images/LGM50LT_image.png" alt="LGM50LT Battery Analysis" class="plot-image">
+            <p>An in-depth analysis of the LGM50LT battery type, showcasing specifications and performance attributes used in various models.</p>
+        </div>
+    
+        <!-- Add a new div for side-by-side battery cell plots -->
+        <div class="plot-row">
+            <div class="plot">
+                <h3>3. SOC Predictions at +10 Degrees</h3>
+                <img src="images/soc_predictions_image_+10degree.png" alt="SOC Predictions at +10 Degrees" class="plot-image">
+                <p>A predictive analysis showing the SOC performance at an ambient temperature of +10 degrees Celsius.</p>
+            </div>
+            <div class="plot">
+                <h3>4. SOC Predictions at 25 Degrees</h3>
+                <img src="images/soc_predictions_image_25degree.png" alt="SOC Predictions at 25 Degrees" class="plot-image">
+                <p>This plot displays SOC predictions at 25 degrees Celsius, showcasing how temperature variations can affect battery performance.</p>
+            </div>
+        </div>
+    
+        <div class="plot">
+            <h3>5. Model Loss Curve</h3>
+            <img src="images/loss_curve_image.png" alt="Model Loss Curve" class="plot-image">
+            <p>This plot represents the training loss over time, demonstrating how the model's performance improves during training iterations.</p>
+        </div>
+    
+        <div class="plot">
+            <h3>6. Transfer Learning Loss Curve</h3>
+            <img src="images/loss_curve_image_transfer_learning.png" alt="Loss Curve with Transfer Learning" class="plot-image">
+            <p>Visualizing the reduction in loss when applying transfer learning techniques, which significantly improved training speed and accuracy.</p>
+        </div>
+    </section>    
+
+    <footer class="footer">
+        <p>📫 Connect with Me:</p>
+        <a href="https://www.linkedin.com/in/usama-yasir-khan-856803173/" target="_blank">LinkedIn</a> |
+        <a href="mailto:yasirusama61@gmail.com">Email</a>
+    </footer>
+</body>
+</html> 
