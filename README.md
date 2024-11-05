@@ -16,13 +16,36 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 ---
 
 ### 🚀 Skills & Technologies
-- **Programming Languages**: Python, MATLAB
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-Learn
-- **Battery Modeling**: PyBAMM, Custom BMS models
-- **Data Visualization**: Plotly, Matplotlib, Dash
-- **Deployment**: Docker, GitHub Codespaces, Edge Deployment (eIQ toolkit)
-- **Data Processing**: Pandas, NumPy
-- **Agile Tools**: Tuleap for sprint planning, task tracking, and collaboration in a fast-paced environment
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+#### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Battery Modeling
+![PyBAMM](https://img.shields.io/badge/-PyBAMM-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Custom BMS Models](https://img.shields.io/badge/-Custom%20BMS%20Models-00A651?style=for-the-badge)
+
+#### Data Visualization
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Dash](https://img.shields.io/badge/-Dash-00A4E4?style=for-the-badge&logo=plotly&logoColor=white)
+
+#### Deployment
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![eIQ Toolkit](https://img.shields.io/badge/-eIQ%20Toolkit-FF5733?style=for-the-badge)
+
+#### Data Processing
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### Agile Tools
+![Tuleap](https://img.shields.io/badge/-Tuleap-3A9BDC?style=for-the-badge)
 
 ---
 
