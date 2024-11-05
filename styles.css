@@ -1,128 +1,69 @@
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4; /* Light background */
+    background-color: #f4f4f4;
     color: #333;
 }
 
 header.hero {
     text-align: center;
+    padding: 2rem;
     background: linear-gradient(to bottom, #6a11cb, #2575fc);
-    color: #fff;
-    padding: 2rem 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
 }
 
 .profile-img {
+    width: 120px;
+    height: auto;
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
     object-fit: cover;
     margin-bottom: 1rem;
 }
 
-h1 {
-    font-size: 2.5rem;
-    margin: 0.5rem 0;
-}
-
-.highlight {
-    color: #ffdd57;
-}
-
-.tagline {
-    font-style: italic;
-    margin-bottom: 1.5rem;
-}
-
 section {
+    max-width: 900px;
+    margin: 2rem auto;
     padding: 2rem;
-    margin: 0 auto 2rem; /* Center the section horizontally */
-    background: #fff;
+    background: white;
     border-radius: 10px;
-    max-width: 100%; /* Make sure the section spans the full width */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 90%; /* Adjust this value to add padding/margin to the sides */
 }
 
 section h2 {
-    margin-bottom: 1rem;
-    font-size: 1.8rem;
     color: #2575fc;
-    display: flex;
-    align-items: center;
 }
 
-section h2:before {
-    content: "🗒"; /* Replace with different icons for each section */
-    margin-right: 0.5rem;
-}
-
-.project-plots, .workflow {
-    padding: 2rem;
-    margin: 0 auto 2rem;
-    background: #ffffff;
-    border-radius: 10px;
-    max-width: 100%; /* Ensures the section spans the full width */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 90%; /* Adjust this to create side margins */
-}
-
-.plot img, .workflow-image {
-    width: 100%;
+.workflow-image,
+.plot-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
     border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
 }
 
-.plot h3 {
-    margin-top: 1rem;
-    color: #6a11cb;
+.plot-image {
+    max-width: 70%; /* Controls image width within the container */
 }
 
-.plot p, .workflow p {
-    margin: 0.5rem 0 1rem 0;
-    font-size: 1rem;
-    line-height: 1.5;
-}
-
-.plot a {
-    color: #2575fc;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.plot a:hover {
-    text-decoration: underline;
-}
-
-.skills-list li {
-    margin-bottom: 0.5rem;
-}
-
-.projects .project {
-    margin-bottom: 1rem;
-}
-
-.projects .project a {
-    color: #2575fc;
-    text-decoration: none;
+.plot-image:hover,
+.workflow-image:hover {
+    transform: scale(1.03); /* Subtle zoom on hover */
 }
 
 footer.footer {
     text-align: center;
-    padding: 1rem 0;
-    background: #333;
-    color: #fff;
-    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
     border-radius: 0 0 10px 10px;
 }
 
 footer.footer a {
     color: #ffdd57;
     text-decoration: none;
-    margin: 0 0.5rem;
 }
 
 footer.footer a:hover {
