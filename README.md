@@ -20,6 +20,7 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 #### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,10 +40,21 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
 ![eIQ Toolkit](https://img.shields.io/badge/-eIQ%20Toolkit-FF5733?style=for-the-badge)
+![AWS Timestream](https://img.shields.io/badge/-AWS%20Timestream-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### Databases
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Data Processing
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### Optimization Techniques
+![PSO (Particle Swarm Optimization)](https://img.shields.io/badge/-PSO-008000?style=for-the-badge)
+![PBnB (Pruned Branch and Bound)](https://img.shields.io/badge/-PBnB-00BFFF?style=for-the-badge)
+![Grid Search](https://img.shields.io/badge/-Grid%20Search-9ACD32?style=for-the-badge)
+![Random Search](https://img.shields.io/badge/-Random%20Search-FFA500?style=for-the-badge)
 
 #### Agile Tools
 ![Tuleap](https://img.shields.io/badge/-Tuleap-3A9BDC?style=for-the-badge)
