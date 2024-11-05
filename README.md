@@ -145,7 +145,19 @@ I'm excited to continue expanding my expertise in:
 ---
 
 ### 🏆 References and Acknowledgments
+
 1. **Dataset**: *LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script*, by Philip Kollmeyer, Carlos Vidal, Mina Naguib, and Michael Skells at McMaster University. DOI: [10.17632/cp3473x7xv.3](https://doi.org/10.17632/cp3473x7xv.3)
-2. **Acknowledgments**: Special thanks to the contributors and researchers who have inspired my work in battery technology.
+
+2. **PyBAMM**: The open-source Python Battery Mathematical Modeling (PyBAMM) library, developed by the PyBAMM community, provides a flexible framework for battery simulations. For more information, visit the official PyBAMM repository: [PyBAMM GitHub](https://github.com/pybamm-team/PyBaMM) or the project website: [PyBAMM.org](https://www.pybamm.org/).
+
+3. **Battery Dataset**: Additional datasets from the *Stanford DAWN Benchmarking Suite* and *NASA Prognostics Data Repository* have also informed aspects of my battery research. These repositories provide public datasets for battery degradation and health estimation. Links to the repositories:
+   - [Stanford DAWN Benchmarking Suite](https://dawn.cs.stanford.edu/benchmark/)
+   - [NASA Prognostics Data Repository - Battery Data](https://www.nasa.gov/content/prognostics-data-repository)
+
+4. **Methodologies and Algorithms**: Several optimization and machine learning techniques used in my work were inspired by widely recognized research papers and methods in the field of AI-driven battery management. Special thanks to the machine learning and battery modeling research communities for their contributions.
+
+5. **Acknowledgments**: Special thanks to the contributors and researchers who have inspired my work in battery technology, including the creators of PyBAMM and the authors of publicly available datasets. Their work has greatly enriched my ability to develop predictive models and digital twin systems for battery management.
+
+---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to discuss AI, battery management, Agile practices, or potential collaborations. Let’s build the future of sustainable energy together!
