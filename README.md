@@ -102,15 +102,19 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 
 Feel free to explore my other repositories for more insights into my work and contributions.
 
----
+### 📈 GitHub Stats and Most Used Languages
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirusama61&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yasirusama61&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirusama61&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirusama61&layout=compact&theme=radical)](https://github.com/yasirusama61/github-readme-stats)
-
----
 
 ### GitHub Activity Graph
 [![Usama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirusama61&theme=dracula)](https://github.com/yasirusama61/github-readme-activity-graph)
