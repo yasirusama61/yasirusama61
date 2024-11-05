@@ -109,6 +109,10 @@ Feel free to explore my other repositories for more insights into my work and co
 
 ---
 
+### GitHub Activity Graph
+[![Usama's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasirusama61&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-yasir-khan-856803173/)
 [![Email Me](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirusama61@gmail.com)
