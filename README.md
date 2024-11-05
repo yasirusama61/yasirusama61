@@ -1,7 +1,7 @@
 <!-- Profile Header Image -->
 ![Header Image](images/1727109322708.png) 
 
-### 👋 Hi there, I'm Usama Yasir Khan!
+## 👋 Hi there, I'm Usama Yasir Khan!
 I'm an **AI Engineer at XING Mobility** with a passion for advancing technology in battery management systems, machine learning, and AI-driven solutions for real-world challenges. I specialize in temperature prediction, state estimation, and digital twin development for energy storage systems and electric vehicles.
 
 ---
