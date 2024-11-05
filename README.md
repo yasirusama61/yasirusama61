@@ -107,6 +107,9 @@ Feel free to explore my other repositories for more insights into my work and co
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirusama61&show_icons=true&theme=radical)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirusama61&layout=compact&theme=radical)](https://github.com/yasirusama61/github-readme-stats)
+
 ---
 
 ### GitHub Activity Graph
