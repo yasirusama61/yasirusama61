@@ -110,7 +110,7 @@ Feel free to explore my other repositories for more insights into my work and co
 ---
 
 ### GitHub Activity Graph
-[![Usama's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasirusama61&theme=react-dark)]
+[![Usama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirusama61)](https://github.com/yasirusama61/github-readme-activity-graph)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-yasir-khan-856803173/)
