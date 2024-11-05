@@ -15,6 +15,29 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 
 ---
 
+<details>
+  <summary>🔽 Highlights / Proficiencies / Interests / Beliefs</summary>
+  
+  ### Highlights
+  - Extensive experience in AI and machine learning for battery management systems.
+  - Proven expertise in developing predictive models for temperature and state estimation.
+
+  ### Proficiencies
+  - **Programming Languages**: Python, MATLAB
+  - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn
+  - **Deployment**: AWS Cloud, NXP N97 MCU, i.MX RT MCU
+
+  ### Interests
+  - Battery state estimation, digital twins, renewable energy, and sustainable tech.
+
+  ### Beliefs
+  - Passionate about advancing technology for a sustainable future.
+  - Believes in leveraging AI to create practical, real-world solutions.
+
+</details>
+
+---
+
 ### 🚀 Skills & Technologies
 
 #### Programming Languages
