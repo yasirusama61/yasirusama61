@@ -42,36 +42,30 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### Battery Modeling
 ![PyBAMM](https://img.shields.io/badge/-PyBAMM-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Custom BMS Models](https://img.shields.io/badge/-Custom%20BMS%20Models-00A651?style=for-the-badge)
+
+#### Deployment & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![NXP N97 MCU](https://img.shields.io/badge/-NXP%20N97%20MCU-FF6C00?style=for-the-badge)
+![i.MX RT MCU](https://img.shields.io/badge/-i.MX%20RT%20MCU-FF4500?style=for-the-badge)
+
+#### Data Processing
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Data Visualization
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Dash](https://img.shields.io/badge/-Dash-00A4E4?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### Deployment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
-![eIQ Toolkit](https://img.shields.io/badge/-eIQ%20Toolkit-FF5733?style=for-the-badge)
-![AWS Timestream](https://img.shields.io/badge/-AWS%20Timestream-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Data Processing
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Optimization Techniques
 ![PSO (Particle Swarm Optimization)](https://img.shields.io/badge/-PSO-008000?style=for-the-badge)
