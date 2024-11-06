@@ -85,20 +85,20 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
    - **Technologies**: Python, TensorFlow
    - **[GitHub Repository](https://github.com/yasirusama61/Advanced-SOC-Estimation-using-Transfer-Learning)**
 
-#### 2. **Battery Temperature Prediction**
+#### 2. **Battery SOC and Temperature Estimation**
+   - Developed models to estimate battery SOC and temperature in immersion-cooled battery packs, incorporating time-series analysis for accurate predictions.
+   - **Technologies**: Python, TensorFlow
+   - **[GitHub Repository](https://github.com/yasirusama61/Battery_SOC_Temp_Estimation)**
+
+#### 3. **Battery Temperature Prediction**
    - Developed a model to predict battery temperature using unique features from the LG 18650HG2 dataset, leveraging transfer learning to enhance predictive accuracy.
    - **Technologies**: Python, TensorFlow, Scikit-Learn
    - **[GitHub Repository](https://github.com/yasirusama61/Battery-Temperature-Prediction)**
 
-#### 3. **Battery Aging Classification**
+#### 4. **Battery Aging Classification**
    - Created a classification model to assess and predict battery aging based on various operational parameters.
    - **Technologies**: Python, Scikit-Learn
    - **[GitHub Repository](https://github.com/yasirusama61/battery-aging-classification)**
-
-#### 4. **AI BMS Optimization**
-   - Optimized AI-driven Battery Management Systems (BMS) for electric vehicles, focusing on performance improvements through real-time data analysis.
-   - **Technologies**: Python, PyBAMM
-   - **[GitHub Repository](https://github.com/yasirusama61/AI_BMS_Optimization)**
 
 #### 5. **Quality Prediction App**
    - Developed an application to predict and monitor quality metrics in manufacturing, using machine learning for proactive quality assurance.
@@ -109,11 +109,6 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
    - Created a predictive maintenance system to detect risks early in the battery manufacturing process, allowing for timely interventions.
    - **Technologies**: Python, Scikit-Learn
    - **[GitHub Repository](https://github.com/yasirusama61/early-risk-detection)**
-
-#### 7. **Battery SOC and Temperature Estimation**
-   - Developed models to estimate battery SOC and temperature in immersion-cooled battery packs, incorporating time-series analysis for accurate predictions.
-   - **Technologies**: Python, TensorFlow
-   - **[GitHub Repository](https://github.com/yasirusama61/Battery_SOC_Temp_Estimation)**
 
 ---
 
