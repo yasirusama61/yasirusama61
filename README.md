@@ -42,8 +42,13 @@ Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress 
       <img src="images/screen-kanban-scrum-1-1568x1147-2.png" alt="Agile Board" width="250"/>
       <br>**Agile Sprint Workflow**
     </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Team Collaboration" width="250"/>
+      <br>**Team Collaboration**
+    </td>
   </tr>
 </table>
+
 
 ---
 
