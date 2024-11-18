@@ -17,6 +17,20 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 
 ---
 
+### 🛠️ Agile/Sprint Planning Expertise
+
+In my role, I prioritize Agile methodologies, leveraging tools like **Tuleap** to manage Sprints efficiently. The example below shows a typical Sprint workflow, moving tasks from Backlog to Completion:
+
+![Agile Board GIF](images/screen-kanban-scrum-1-1568x1147-2.png)
+
+I focus on:
+- **Backlog Refinement**: Organizing tasks by priority for upcoming Sprints.
+- **Sprint Planning**: Defining clear goals and distributing tasks across the team.
+- **Daily Stand-ups**: Regular updates to ensure transparency and address roadblocks.
+- **Retrospectives**: Reviewing Sprints to continuously improve processes.
+
+---
+
 <details>
   <summary>🔽 Highlights / Proficiencies / Interests / Beliefs</summary>
   
