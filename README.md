@@ -39,11 +39,11 @@ Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress 
       <br>**Dynamic Development**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" alt="Kanban Workflow Animation" width="250"/>
+      <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Agile Teamwork Animation" width="250"/>
       <br>**Agile Sprint Workflow**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Team Collaboration" width="250"/>
+      <img src="https://media.giphy.com/media/1dIoK9f2dxW6wRQTTn/giphy.gif" alt="Collaboration in Progress" width="250"/>
       <br>**Team Collaboration**
     </td>
   </tr>
