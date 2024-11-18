@@ -13,18 +13,6 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 - 💬 **Ask me about**: Machine Learning, Battery Systems, Data Analysis, Predictive Modeling
 - 🛠️ **Agile Development**: Experienced in Agile methodologies, using **Tuleap** for Sprint planning, tracking tasks, and facilitating daily stand-up meetings for smooth and efficient development.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Working on AI BMS" width="300"/>
-      <br>Working on AI BMS
-    </td>
-    <td align="center">
-      <img src="images/screen-kanban-scrum-1-1568x1147-2.png" alt="Agile Board" width="300"/>
-      <br>Agile Board
-    </td>
-  </tr>
-</table>
 ---
 
 ### 🚀 Agile/Sprint Planning Expertise
