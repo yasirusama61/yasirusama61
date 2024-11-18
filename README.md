@@ -27,15 +27,52 @@ I'm an **AI Engineer at XING Mobility** with a passion for advancing technology 
 </table>
 ---
 
-### 🛠️ Agile/Sprint Planning Expertise
+### 🚀 Agile/Sprint Planning Expertise
 
-In my role, I prioritize Agile methodologies, leveraging tools like **Tuleap** to manage Sprints efficiently. The example above shows a typical Sprint workflow, moving tasks from Backlog to Completion:
+I thrive on Agile methodologies to ensure smooth, efficient, and collaborative workflows. Leveraging tools like **Tuleap**, I manage Sprints with precision and flexibility. Here's how I bring Agile into action:
 
-I focus on:
-- **Backlog Refinement**: Organizing tasks by priority for upcoming Sprints.
-- **Sprint Planning**: Defining clear goals and distributing tasks across the team.
-- **Daily Stand-ups**: Regular updates to ensure transparency and address roadblocks.
-- **Retrospectives**: Reviewing Sprints to continuously improve processes.
+---
+
+#### 🛠️ **Key Practices**:
+- 📝 **Backlog Refinement**: Prioritize tasks to align with upcoming Sprint goals.
+- 🗓️ **Sprint Planning**: Define **SMART goals** and allocate tasks effectively across the team.
+- ⏱️ **Daily Stand-ups**: Foster transparency with brief updates and tackle blockers head-on.
+- 🔄 **Retrospectives**: Reflect, learn, and enhance workflows for continuous improvement.
+
+---
+
+#### 📊 **Sprint Workflow Overview**
+Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress from Backlog to Completion:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Working on AI BMS" width="250"/>
+      <br>**Dynamic Development**
+    </td>
+    <td align="center">
+      <img src="images/screen-kanban-scrum-1-1568x1147-2.png" alt="Agile Board" width="250"/>
+      <br>**Agile Sprint Workflow**
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 🌟 **Why Agile Matters in Data Science?**
+Agile methodologies allow me to:
+1. Deliver iterative and **incremental value** with rapid prototyping and testing.
+2. Adapt quickly to shifting project requirements or data insights.
+3. Maintain **collaboration and transparency** across technical and non-technical stakeholders.
+
+---
+
+💡 _**Quote:**_  
+_"Data Science thrives in Agile—an iterative approach keeps innovation and insights flowing."_  
+
+---
+
+🌟 Let's build smarter workflows, one Sprint at a time!
 
 ---
 
