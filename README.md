@@ -35,7 +35,7 @@ Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress 
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Working on AI BMS" width="250"/>
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Working on AI BMS" width="250"/>
       <br>**Dynamic Development**
     </td>
     <td align="center">
