@@ -39,7 +39,7 @@ Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress 
       <br>**Dynamic Development**
     </td>
     <td align="center">
-      <img src="images/screen-kanban-scrum-1-1568x1147-2.png" alt="Agile Board" width="250"/>
+      <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" alt="Kanban Workflow Animation" width="250"/>
       <br>**Agile Sprint Workflow**
     </td>
     <td align="center">
@@ -48,7 +48,6 @@ Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress 
     </td>
   </tr>
 </table>
-
 
 ---
 
