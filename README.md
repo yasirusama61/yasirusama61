@@ -1,7 +1,7 @@
 <!-- Capsule Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Usama%20Yasir%20Khan&height=320&fontSize=50&fontAlign=50&fontColor=000000&desc=AI%20Engineer%20|%20Battery%20Management%20Systems%20Expert&descAlign=50&descAlignY=90&descFontColor=000000)
 
-## 🛠️ Languages and Tools
+## 🛠️ Main Languages and Tools
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
