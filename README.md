@@ -1,32 +1,6 @@
-<h1 align="center">Usama Yasir Khan</h1>
-<h3 align="center">
-    <span>
-        <span class="dynamic-text">AI Engineer</span> |
-        <span class="dynamic-text">Battery Systems Specialist</span> |
-        <span class="dynamic-text">Data Scientist</span>
-    </span>
-</h3>
+<!-- Capsule Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Usama%20Yasir%20Khan&height=200&fontSize=40&fontAlign=center&desc=AI%20Engineer%20|%20Battery%20Management%20Systems%20Specialist&descAlign=65&descAlignY=70)
 
----
-
-<style>
-@keyframes dynamic-text {
-    0% { opacity: 0; }
-    10% { opacity: 1; }
-    30% { opacity: 1; }
-    40% { opacity: 0; }
-    100% { opacity: 0; }
-}
-.dynamic-text {
-    display: inline-block;
-    animation: dynamic-text 6s infinite;
-    opacity: 0;
-    position: relative;
-}
-.dynamic-text:nth-child(1) { animation-delay: 0s; }
-.dynamic-text:nth-child(2) { animation-delay: 2s; }
-.dynamic-text:nth-child(3) { animation-delay: 4s; }
-</style>
 
 # 👋 Hi there, I'm Usama Yasir Khan!
 I'm an **AI Engineer at XING Mobility** with a passion for advancing technology in battery management systems, machine learning, and AI-driven solutions for real-world challenges. I specialize in temperature prediction, state estimation, and digital twin development for energy storage systems and electric vehicles.
