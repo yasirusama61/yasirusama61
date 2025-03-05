@@ -51,7 +51,7 @@ I'm an **AI Engineer** with a passion for advancing technology in battery manage
 ---
 
 ### 💼 About Me
-- 🔭 **Current Role**: AI Engineer at XING Mobility, working on AI Battery Management Systems
+- 🔭 **Current Role**: AI Engineer, working on AI Battery Management Systems
 - 🚗 **Industry**: Electric vehicles, Battery Management Systems (BMS), Renewable Energy
 - 🌱 **Interests**: Battery state estimation, predictive maintenance, digital twins, sustainable tech
 - 💬 **Ask me about**: Machine Learning, Battery Systems, Data Analysis, Predictive Modeling
