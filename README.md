@@ -177,17 +177,7 @@ _"Data Science thrives in Agile—an iterative approach keeps innovation and ins
 
 ### 🌟 Featured Projects
 
-#### 1. **Advanced SOC Estimation using Transfer Learning**
-   - Implemented a State of Charge (SOC) estimator using transfer learning, pre-training on LG 18650HG2 Li-ion battery data and fine-tuning it for a specific electric vehicle application or a new battery chemistry.
-   - **Technologies**: Python, TensorFlow
-   - **[GitHub Repository](https://github.com/yasirusama61/Advanced-SOC-Estimation-using-Transfer-Learning)**
-
-#### 2. **Battery Temperature Prediction**
-   - Developed a model to predict battery temperature using unique features from the LG 18650HG2 dataset, leveraging transfer learning to enhance predictive accuracy.
-   - **Technologies**: Python, TensorFlow, Scikit-Learn
-   - **[GitHub Repository](https://github.com/yasirusama61/Battery-Temperature-Prediction)**
-
-#### 3. **Quality Prediction App**
+#### 1. **Quality Prediction App**
    - Developed an application to predict and monitor quality metrics in manufacturing, using machine learning for proactive quality assurance.
    - **Technologies**: Python, Dash, XGBoost
    - **[GitHub Repository](https://github.com/yasirusama61/Quality_APP)**
