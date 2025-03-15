@@ -64,11 +64,11 @@ I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **dee
 
 ---
 
-#### 🛠️ **Key Practices**:
-- 📝 **Backlog Refinement**: Prioritize tasks to align with upcoming Sprint goals.
-- 🗓️ **Sprint Planning**: Define **SMART goals** and allocate tasks effectively across the team.
-- ⏱️ **Daily Stand-ups**: Foster transparency with brief updates and tackle blockers head-on.
-- 🔄 **Retrospectives**: Reflect, learn, and enhance workflows for continuous improvement.
+#### 🛠️ **Key Research & Development Practices**
+- 📊 **Data Preprocessing**: Cleaning, normalizing, and augmenting medical imaging datasets for deep learning models.  
+- 🧠 **Model Training & Optimization**: Implementing and fine-tuning deep learning models (GANs, CNNs, Vision Transformers) for classification and segmentation tasks.  
+- 🔬 **Evaluation & Explainability**: Using techniques like Grad-CAM, SHAP, and LIME to interpret AI model decisions in medical imaging.  
+- 🚀 **Deployment & Performance Monitoring**: Deploying AI models in healthcare applications and continuously improving performance with real-world feedback.  
 
 ---
 
