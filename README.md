@@ -52,10 +52,11 @@ I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **dee
    - **Technologies**: PyTorch, TensorFlow, GANs
    - **[GitHub Repository](https://github.com/yasirusama61/DeepMedSynth)**
 
-#### 2️⃣ **Medical Image Classification & Segmentation**
-   - Working with **CNNs, U-Net, and Vision Transformers** to classify and segment **brain tumors, lung diseases, and anomalies** in medical scans.
-   - **Technologies**: PyTorch, TensorFlow, OpenCV
-   - _Repo coming soon_
+#### 2️⃣ **YOLOv8 Object Detection**
+   - Implemented **YOLOv8-based Object Detection** for real-time applications.
+   - Applied **custom training** on specialized datasets for **medical and general-purpose** image analysis.
+   - **Technologies**: PyTorch, OpenCV, Ultralytics YOLOv8
+   - **[GitHub Repository](https://github.com/yasirusama61/YOLOv8-Object-Detection)**
 
 #### 3️⃣ **Explainable AI (XAI) for Medical Imaging**
    - Implementing **Grad-CAM, SHAP, and LIME** for explainable deep learning models in healthcare.
