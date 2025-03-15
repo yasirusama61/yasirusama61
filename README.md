@@ -138,21 +138,21 @@ _"Data Science thrives in Agile—an iterative approach keeps innovation and ins
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-#### Machine Learning & AI
+#### Deep Learning & Medical Imaging
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MONAI](https://img.shields.io/badge/-MONAI-005571?style=for-the-badge&logo=monai&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyBAMM](https://img.shields.io/badge/-PyBAMM-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NiBabel](https://img.shields.io/badge/-NiBabel-009688?style=for-the-badge&logo=python&logoColor=white)
 
-#### Deployment & Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
-![NXP N97 MCU](https://img.shields.io/badge/-NXP%20N97%20MCU-FF6C00?style=for-the-badge)
-![i.MX RT MCU](https://img.shields.io/badge/-i.MX%20RT%20MCU-FF4500?style=for-the-badge)
+#### Medical Image Processing
+![SimpleITK](https://img.shields.io/badge/-SimpleITK-FF5733?style=for-the-badge)
+![DICOM](https://img.shields.io/badge/-DICOM-2C5EBA?style=for-the-badge)
+![NiFTI](https://img.shields.io/badge/-NiFTI-3A69A6?style=for-the-badge)
+![Albumentations](https://img.shields.io/badge/-Albumentations-FFB400?style=for-the-badge)
 
 #### Data Processing
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -161,37 +161,20 @@ _"Data Science thrives in Agile—an iterative approach keeps innovation and ins
 #### Data Visualization
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-00A4E4?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Optimization Techniques
-![PSO (Particle Swarm Optimization)](https://img.shields.io/badge/-PSO-008000?style=for-the-badge)
-![PBnB (Pruned Branch and Bound)](https://img.shields.io/badge/-PBnB-00BFFF?style=for-the-badge)
 ![Grid Search](https://img.shields.io/badge/-Grid%20Search-9ACD32?style=for-the-badge)
 ![Random Search](https://img.shields.io/badge/-Random%20Search-FFA500?style=for-the-badge)
 
-#### Agile Tools
-![Tuleap](https://img.shields.io/badge/-Tuleap-3A9BDC?style=for-the-badge)
-
----
-
-### 🌟 Featured Projects
-
-#### 1. **Quality Prediction App**
-   - Developed an application to predict and monitor quality metrics in manufacturing, using machine learning for proactive quality assurance.
-   - **Technologies**: Python, Dash, XGBoost
-   - **[GitHub Repository](https://github.com/yasirusama61/Quality_APP)**
-
-#### 4. **Early Risk Detection System**
-   - Created a predictive maintenance system to detect risks early in the battery manufacturing process, allowing for timely interventions.
-   - **Technologies**: Python, Scikit-Learn
-   - **[GitHub Repository](https://github.com/yasirusama61/early-risk-detection)**
+#### Deployment & Cloud
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 Feel free to explore my other repositories for more insights into my work and contributions.
 
-=======
->>>>>>> 6eeef23 (updated README)
 ### 📈 GitHub Stats and Most Used Languages
 
 <table>
