@@ -1,26 +1,11 @@
 <!-- Capsule Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Usama%20Yasir%20Khan&height=320&fontSize=50&fontAlign=50&fontColor=000000&desc=AI%20Engineer%20|%20Battery%20Management%20Systems%20Expert&descAlign=50&descAlignY=90&descFontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Usama%20Yasir%20Khan&height=320&fontSize=50&fontAlign=50&fontColor=000000&desc=AI%20Engineer%20|%20Medical%20Imaging%20Researcher&descAlign=50&descAlignY=90&descFontColor=000000)
 
 ## 🛠️ Main Languages and Tools
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
@@ -34,37 +19,60 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   </a>
 </p>
 
+---
+
 # 👋 Hi there, I'm Usama Yasir Khan!
+<<<<<<< HEAD
 I'm an **AI Engineer** with a passion for advancing technology in battery management systems, machine learning, and AI-driven solutions for real-world challenges. I specialize in temperature prediction, state estimation, for energy storage systems and electric vehicles.
+=======
+I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **deep learning for healthcare applications**, particularly **GAN-based synthetic medical image generation**, classification, and segmentation of **X-rays, MRIs, and CT scans**. 
+>>>>>>> 6eeef23 (updated README)
 
 ---
 
 ### 💼 About Me
+<<<<<<< HEAD
 - 🔭 **Current Role**: AI Engineer, working on AI Battery Management Systems
 - 🚗 **Industry**: Electric vehicles, Battery Management Systems (BMS), Renewable Energy
 - 🌱 **Interests**: Battery state estimation, predictive maintenance, digital twins, sustainable tech
 - 💬 **Ask me about**: Machine Learning, Battery Systems, Data Analysis, Predictive Modeling
 - 🛠️ **Agile Development**: Experienced in Agile methodologies, using **Tuleap** for Sprint planning, tracking tasks, and facilitating daily stand-up meetings for smooth and efficient development.
+=======
+- 🔭 **Current Focus**: AI-based Medical Imaging Research  
+- 🧠 **Project**: Developing a **Synthetic Medical Image Generator (DeepMedSynth)** using GANs  
+- 📊 **Interest Areas**: Medical Image Processing, Explainable AI (XAI), AI-driven Healthcare Solutions  
+- 🛠️ **Tech Stack**: Python, PyTorch, TensorFlow, OpenCV, Numpy, Scikit-Learn  
+>>>>>>> 6eeef23 (updated README)
 
 ---
 
-### 🚀 Agile/Sprint Planning Expertise
+### 🚀 Featured Projects
 
-I thrive on Agile methodologies to ensure smooth, efficient, and collaborative workflows. Leveraging tools like **Tuleap**, I manage Sprints with precision and flexibility. Here's how I bring Agile into action:
+#### 1️⃣ **DeepMedSynth: GAN-based Synthetic Medical Image Generator**
+   - Developing a **Generative Adversarial Network (GAN)** to generate synthetic **MRI/X-ray** images.
+   - **Technologies**: PyTorch, TensorFlow, GANs
+   - **[GitHub Repository](https://github.com/yasirusama61/DeepMedSynth)**
+
+#### 2️⃣ **Medical Image Classification & Segmentation**
+   - Working with **CNNs, U-Net, and Vision Transformers** to classify and segment **brain tumors, lung diseases, and anomalies** in medical scans.
+   - **Technologies**: PyTorch, TensorFlow, OpenCV
+   - _Repo coming soon_
+
+#### 3️⃣ **Explainable AI (XAI) for Medical Imaging**
+   - Implementing **Grad-CAM, SHAP, and LIME** for explainable deep learning models in healthcare.
+   - _Repo coming soon_
 
 ---
 
+<<<<<<< HEAD
 #### 🛠️ **Key Practices**:
 - 📝 **Backlog Refinement**: Prioritize tasks to align with upcoming Sprint goals.
 - 🗓️ **Sprint Planning**: Define **SMART goals** and allocate tasks effectively across the team.
@@ -191,6 +199,8 @@ _"Data Science thrives in Agile—an iterative approach keeps innovation and ins
 
 Feel free to explore my other repositories for more insights into my work and contributions.
 
+=======
+>>>>>>> 6eeef23 (updated README)
 ### 📈 GitHub Stats and Most Used Languages
 
 <table>
@@ -204,7 +214,6 @@ Feel free to explore my other repositories for more insights into my work and co
   </tr>
 </table>
 
-
 ### GitHub Activity Graph
 [![Usama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasirusama61&theme=dracula)](https://github.com/yasirusama61/github-readme-activity-graph)
 
@@ -217,38 +226,9 @@ Feel free to explore my other repositories for more insights into my work and co
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/usama-yasir-khan-856803173/)
 - 📧 [Email](mailto:yasirusama61@gmail.com)
-
 ---
 
-### 🔍 Current Focus
-- **Dashboard Creation**: Developing a visualization tool for real-time temperature monitoring in batteries.
-- **Explainable AI (XAI)**: Adding SHAP-based interpretability to machine learning models for enhanced transparency.
-- **Edge Deployment**: Exploring deployment options for BMS applications on resource-constrained devices.
-- **Agile Collaboration**: Using tools like Tuleap for Sprint planning and task tracking to ensure efficient project progression.
-
----
-
-### 🌱 Future Goals
-I'm excited to continue expanding my expertise in:
-- **Advanced state estimation techniques** for electric vehicle batteries
-- **Integration of AI with IoT** for smarter energy management solutions
-- **Building scalable predictive models** for renewable energy applications
-
----
-
-### 🏆 References and Acknowledgments
-
-1. **Dataset**: *LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script*, by Philip Kollmeyer, Carlos Vidal, Mina Naguib, and Michael Skells at McMaster University. DOI: [10.17632/cp3473x7xv.3](https://doi.org/10.17632/cp3473x7xv.3)
-
-2. **PyBAMM**: The open-source Python Battery Mathematical Modeling (PyBAMM) library, developed by the PyBAMM community, provides a flexible framework for battery simulations. For more information, visit the official PyBAMM repository: [PyBAMM GitHub](https://github.com/pybamm-team/PyBaMM) or the project website: [PyBAMM.org](https://www.pybamm.org/).
-
-3. **Battery Dataset**: Additional datasets from the *Stanford DAWN Benchmarking Suite* and *NASA Prognostics Data Repository* have also informed aspects of my battery research. These repositories provide public datasets for battery degradation and health estimation. Links to the repositories:
-   - [Stanford DAWN Benchmarking Suite](https://dawn.cs.stanford.edu/benchmark/)
-   - [NASA Prognostics Data Repository - Battery Data](https://www.nasa.gov/content/prognostics-data-repository)
-
-4. **Methodologies and Algorithms**: Several optimization and machine learning techniques used in my work were inspired by widely recognized research papers and methods in the field of AI-driven battery management. Special thanks to the machine learning and battery modeling research communities for their contributions.
-
-5. **Acknowledgments**: Special thanks to the contributors and researchers who have inspired my work in battery technology, including the creators of PyBAMM and the authors of publicly available datasets. Their work has greatly enriched my ability to develop predictive models and digital twin systems for battery management.
+🚀 **Let's advance AI in Medical Imaging together!**
 
 ---
 
