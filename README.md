@@ -30,16 +30,16 @@
 ---
 
 # 👋 Hi there, I'm Usama Yasir Khan!
-<<<<<<< HEAD
+
 I'm an **AI Engineer** with a passion for advancing technology in battery management systems, machine learning, and AI-driven solutions for real-world challenges. I specialize in temperature prediction, state estimation, for energy storage systems and electric vehicles.
 =======
 I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **deep learning for healthcare applications**, particularly **GAN-based synthetic medical image generation**, classification, and segmentation of **X-rays, MRIs, and CT scans**. 
->>>>>>> 6eeef23 (updated README)
+
 
 ---
 
 ### 💼 About Me
-<<<<<<< HEAD
+
 - 🔭 **Current Role**: AI Engineer, working on AI Battery Management Systems
 - 🚗 **Industry**: Electric vehicles, Battery Management Systems (BMS), Renewable Energy
 - 🌱 **Interests**: Battery state estimation, predictive maintenance, digital twins, sustainable tech
@@ -50,7 +50,7 @@ I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **dee
 - 🧠 **Project**: Developing a **Synthetic Medical Image Generator (DeepMedSynth)** using GANs  
 - 📊 **Interest Areas**: Medical Image Processing, Explainable AI (XAI), AI-driven Healthcare Solutions  
 - 🛠️ **Tech Stack**: Python, PyTorch, TensorFlow, OpenCV, Numpy, Scikit-Learn  
->>>>>>> 6eeef23 (updated README)
+
 
 ---
 
@@ -72,7 +72,6 @@ I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **dee
 
 ---
 
-<<<<<<< HEAD
 #### 🛠️ **Key Practices**:
 - 📝 **Backlog Refinement**: Prioritize tasks to align with upcoming Sprint goals.
 - 🗓️ **Sprint Planning**: Define **SMART goals** and allocate tasks effectively across the team.
