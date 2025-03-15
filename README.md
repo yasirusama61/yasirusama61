@@ -72,42 +72,46 @@ I'm an **AI Engineer specializing in Medical Imaging**. My work focuses on **dee
 
 ---
 
-#### 📊 **Sprint Workflow Overview**
-Below is a snapshot of a typical Sprint workflow, showcasing how tasks progress from Backlog to Completion:
+#### 📊 **Medical Imaging AI Workflow**
+Below is a snapshot of a typical AI-driven Medical Imaging workflow, showcasing how data progresses from acquisition to AI model predictions:
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Working on AI BMS" width="250"/>
-      <br>**Dynamic Development**
+      <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="Medical Image Acquisition" width="250"/>
+      <br>**Medical Image Acquisition**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/UgRwQ1uySVo6pMepTT/giphy.gif" alt="Kanban Workflow Animation" width="250"/>
-      <br>**Agile Sprint Workflow**
+      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Data Preprocessing & Augmentation" width="250"/>
+      <br>**Preprocessing & Augmentation**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Team Collaboration" width="250"/>
-      <br>**Team Collaboration**
+      <img src="https://media.giphy.com/media/1X7TuvRbaH4uukWcQU/giphy.gif" alt="Deep Learning Model Training" width="250"/>
+      <br>**Deep Learning Model Training**
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l4FGqJ91MCM62xvDO/giphy.gif" alt="AI-Powered Diagnosis" width="250"/>
+      <br>**AI-Powered Diagnosis**
     </td>
   </tr>
 </table>
 
 ---
 
-#### 🌟 **Why Agile Matters in Data Science?**
-Agile methodologies allow me to:
-1. Deliver iterative and **incremental value** with rapid prototyping and testing.
-2. Adapt quickly to shifting project requirements or data insights.
-3. Maintain **collaboration and transparency** across technical and non-technical stakeholders.
+#### 🌟 **Why AI Matters in Medical Imaging?**
+AI-powered medical imaging enhances healthcare by:
+1. **Improving early disease detection** using deep learning on MRI, CT, and X-ray images.
+2. **Generating synthetic medical images** (GANs) to augment datasets and overcome privacy concerns.
+3. **Enhancing model interpretability** through Explainable AI (XAI), ensuring trust in AI-driven diagnoses.
 
 ---
 
 💡 _**Quote:**_  
-_"Data Science thrives in Agile—an iterative approach keeps innovation and insights flowing."_  
+_"AI in medical imaging is transforming diagnosis, making healthcare faster, more accurate, and accessible."_  
 
 ---
 
-🌟 Let's build smarter workflows, one Sprint at a time!
+🌟 Let's revolutionize medical imaging with AI! 🚀
 
 ---
 
@@ -115,20 +119,20 @@ _"Data Science thrives in Agile—an iterative approach keeps innovation and ins
   <summary>🔽 Highlights / Proficiencies / Interests / Beliefs</summary>
   
   ### Highlights
-  - Extensive experience in AI and machine learning for battery management systems.
-  - Proven expertise in developing predictive models for temperature and state estimation.
+  - Extensive experience in **AI for medical imaging** (GANs, CNNs, Vision Transformers).
+  - Proven expertise in **MRI/X-ray classification, segmentation, and synthetic image generation**.
 
   ### Proficiencies
   - **Programming Languages**: Python, MATLAB
-  - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn
-  - **Deployment**: AWS Cloud, NXP N97 MCU, i.MX RT MCU
+  - **Frameworks**: TensorFlow, PyTorch, MONAI, OpenCV, Scikit-Learn
+  - **Medical Image Processing**: NiBabel, DICOM, SimpleITK, NiFTI
 
   ### Interests
-  - Battery state estimation, digital twins, renewable energy, and sustainable tech.
+  - AI-powered healthcare, medical image generation, XAI in medical AI.
 
   ### Beliefs
-  - Passionate about advancing technology for a sustainable future.
-  - Believes in leveraging AI to create practical, real-world solutions.
+  - Passionate about using AI for **real-world healthcare improvements**.
+  - Believes in **open-source collaboration** for advancing medical AI research.
 
 </details>
 
@@ -203,7 +207,3 @@ Feel free to explore my other repositories for more insights into my work and co
 ---
 
 🚀 **Let's advance AI in Medical Imaging together!**
-
----
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to discuss AI, battery management, Agile practices, or potential collaborations. Let’s build the future of sustainable energy together!
