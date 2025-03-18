@@ -1,7 +1,7 @@
 <!-- Capsule Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Usama%20Yasir%20Khan&height=320&fontSize=50&fontAlign=50&fontColor=000000&desc=AI%20Engineer%20|%20Medical%20Imaging%20Researcher&descAlign=50&descAlignY=90&descFontColor=000000)
 
-## 🛠️ Main Languages and Tools
+## 🛠️ Main Languages and Tools for Medical Imaging
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -12,6 +12,21 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://ultralytics.com/yolov8" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ultralytics/assets/raw/main/yolo-logo.png" alt="YOLO" width="40" height="40"/>
+  </a>
+  <a href="https://albumentations.ai/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/albumentations-team/albumentations/master/docs/source/_static/logo.png" alt="Albumentations" width="40" height="40"/>
+  </a>
+  <a href="https://simpleitk.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/5128021?s=200&v=4" alt="SimpleITK" width="40" height="40"/>
+  </a>
+  <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer">
+    <img src="https://nipy.org/nibabel/_static/nipy-logo.png" alt="NiBabel" width="40" height="40"/>
+  </a>
+  <a href="https://monai.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Project-MONAI/MONAI/blob/main/docs/images/MONAI-logo-color.png?raw=true" alt="MONAI" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
@@ -24,6 +39,12 @@
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 </p>
 
