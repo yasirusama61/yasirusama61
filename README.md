@@ -16,9 +16,6 @@
   <a href="https://ultralytics.com/yolov8" target="_blank" rel="noreferrer">
     <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994690ba750f8de7df4478_Ultralytics_full_blue.svg" alt="YOLO" width="40" height="40"/>
   </a>
-  <a href="https://albumentations.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/albumentations-team/albumentations/master/docs/source/_static/logo.png" alt="Albumentations" width="40" height="40"/>
-  </a>
   <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/nipy/nibabel/master/doc/pics/logo.png" alt="NiBabel" width="40" height="40"/>
   </a>
