@@ -78,7 +78,7 @@ Below is a snapshot of a typical AI-driven Medical Imaging workflow, showcasing 
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="Medical Image Acquisition" width="250"/>
+      <img src="https://herrmann.lab.uiowa.edu/sites/herrmann.lab.uiowa.edu/files/2022-05/CT_ARDS_PEEP_pie_lossy_0.gif" alt="Medical Image Acquisition" width="250"/>
       <br>**Medical Image Acquisition**
     </td>
     <td align="center">
@@ -86,11 +86,11 @@ Below is a snapshot of a typical AI-driven Medical Imaging workflow, showcasing 
       <br>**Preprocessing & Augmentation**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/1X7TuvRbaH4uukWcQU/giphy.gif" alt="Deep Learning Model Training" width="250"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThsN2Q3YmJvdWlqcXR1dDZiY3VmNzV5cGZrNHE0bnNsNzducWF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.gif" alt="Deep Learning Model Training" width="250"/>
       <br>**Deep Learning Model Training**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l4FGqJ91MCM62xvDO/giphy.gif" alt="AI-Powered Diagnosis" width="250"/>
+      <img src="https://img.freepik.com/free-vector/hand-drawn-ai-healthcare-illustration_52683-156475.jpg?t=st=1742300934~exp=1742304534~hmac=e1c972cdea1d919fa8a9cf3aa19f6467ce6f6a7e16aeacbc7aec8e7417010107&w=740" alt="AI-Powered Diagnosis" width="250"/>
       <br>**AI-Powered Diagnosis**
     </td>
   </tr>
