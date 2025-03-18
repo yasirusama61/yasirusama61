@@ -14,16 +14,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://ultralytics.com/yolov8" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ultralytics/assets/raw/main/yolo-logo.png" alt="YOLO" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994690ba750f8de7df4478_Ultralytics_full_blue.svg" alt="YOLO" width="40" height="40"/>
   </a>
   <a href="https://albumentations.ai/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/albumentations-team/albumentations/master/docs/source/_static/logo.png" alt="Albumentations" width="40" height="40"/>
   </a>
-  <a href="https://simpleitk.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5128021?s=200&v=4" alt="SimpleITK" width="40" height="40"/>
-  </a>
   <a href="https://nipy.org/nibabel/" target="_blank" rel="noreferrer">
-    <img src="https://nipy.org/nibabel/_static/nipy-logo.png" alt="NiBabel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/nipy/nibabel/master/doc/pics/logo.png" alt="NiBabel" width="40" height="40"/>
   </a>
   <a href="https://monai.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Project-MONAI/MONAI/blob/main/docs/images/MONAI-logo-color.png?raw=true" alt="MONAI" width="40" height="40"/>
