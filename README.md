@@ -97,10 +97,6 @@ Below is a snapshot of a typical AI-driven Medical Imaging workflow, showcasing 
       <br>**Medical Image Acquisition**
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Data Preprocessing & Augmentation" width="250"/>
-      <br>**Preprocessing & Augmentation**
-    </td>
-    <td align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThsN2Q3YmJvdWlqcXR1dDZiY3VmNzV5cGZrNHE0bnNsNzducWF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.gif" alt="Deep Learning Model Training" width="250"/>
       <br>**Deep Learning Model Training**
     </td>
